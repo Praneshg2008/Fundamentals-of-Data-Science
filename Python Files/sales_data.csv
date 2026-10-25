@@ -1,0 +1,17 @@
+Date,Product,Sales,Quantity,Region
+2023-01-01,Product A,200,4,North
+2023-01-02,Product B,150,3,South
+2023-01-03,Product A,220,5,North
+2023-01-04,Product C,300,6,East
+2023-01-05,Product B,180,4,West
+2023-01-06,Product A,210,5,North
+2023-01-07,Product C,320,7,East
+2023-01-08,Product B,160,3,South
+2023-01-09,Product A,230,6,North
+2023-01-10,Product C,310,7,East
+2023-01-11,Product B,190,4,West
+2023-01-12,Product A,240,6,North
+2023-01-13,Product C,330,8,East
+2023-01-14,Product B,170,3,South
+2023-01-15,Product A,250,7,North
+2023-01-16,Product C,340,8,East
